@@ -1,7 +1,7 @@
 Chat-with-Multiple-PDF
 <br>
 <br>
-🤖 AI-Powered PDF Chat Assistant
+ AI-Powered PDF Chat Assistant
 <br>
 Chat-with-Multiple-PDF is a free tool that lets you upload several PDF files and ask your questions in plain language — just like chatting with a friend! It’s powered by Streamlit, LangChain, and Hugging Face, making AI simple and accessible to everyone.
 <br>
